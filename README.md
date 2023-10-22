@@ -1,7 +1,4 @@
-#
-
-  
-
-  - Sign in
-    - Login with facebook / google
-
+Team Ordinario
+- Justine Buluan
+- Briann Contreras
+- Aaron Jacob Becamon
